@@ -8,6 +8,8 @@ you can enter an event when you click the save button for that time block,
 then the text for that event is saved in local storage.
 When you refresh the page then the saved events persist
 
-Screenshot
+# Screenshot
+![Screenshot (11)](https://user-images.githubusercontent.com/120228686/221334552-d1a11d35-76f0-4760-b48e-2b4e1edc3668.png)
 
-Deployed Link
+# Deployed Link
+https://jaragon94.github.io/Work-Day-JA/
